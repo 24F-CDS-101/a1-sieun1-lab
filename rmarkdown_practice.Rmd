@@ -27,6 +27,12 @@ urlcolor: blue
 
 <!-- Write your Markdown below this line -->
 
-##Hello World!
+#Assignment 1: R Markdown practice
+
+##Sieun Kim
+
+##2022-08-19
+
+#
 
 
